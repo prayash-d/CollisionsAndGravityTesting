@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 0 (Gradient)
+    uniqueID: 4269158349
+    locked: 0
+  - name: 1 (Pale Blue)
+    uniqueID: 4092538807
+    locked: 0
+  - name: 2 (Barely Visible Trees)
+    uniqueID: 1036446127
+    locked: 0
+  - name: 3 (Black Trees)
+    uniqueID: 3891319855
+    locked: 0
+  - name: 7 Lights
+    uniqueID: 310648055
+    locked: 0
+  - name: 6 Trees
+    uniqueID: 1176117539
+    locked: 0
+  - name: 5 Trees
+    uniqueID: 994904517
+    locked: 0
+  - name: 4 Lights
+    uniqueID: 3128540801
+    locked: 0
+  - name: 3 Trees & Bushes
+    uniqueID: 788607645
+    locked: 0
+  - name: 2 Leaves Rooftop
+    uniqueID: 3327955209
+    locked: 0
+  - name: 1 Green Grass
+    uniqueID: 2222588123
+    locked: 0
+  - name: Entity
+    uniqueID: 501125365
+    locked: 0
+  - name: 0 Black Grass
+    uniqueID: 681356199
+    locked: 0

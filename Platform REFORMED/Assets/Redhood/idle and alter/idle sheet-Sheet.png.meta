@@ -1,0 +1,856 @@
+fileFormatVersion: 2
+guid: bf2e8598dad31544586058259560c2cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5770251550782387183
+    second: idle sheet-Sheet_0
+  - first:
+      213: -4118208772998566661
+    second: idle sheet-Sheet_1
+  - first:
+      213: -7050135170561960304
+    second: idle sheet-Sheet_2
+  - first:
+      213: -825478908906485022
+    second: idle sheet-Sheet_3
+  - first:
+      213: 1513770297049294160
+    second: idle sheet-Sheet_4
+  - first:
+      213: 3677159266847545319
+    second: idle sheet-Sheet_5
+  - first:
+      213: -6701512078181738702
+    second: idle sheet-Sheet_6
+  - first:
+      213: 8038760012314833929
+    second: idle sheet-Sheet_7
+  - first:
+      213: 5532852436634238581
+    second: idle sheet-Sheet_8
+  - first:
+      213: -8135833663074233968
+    second: idle sheet-Sheet_9
+  - first:
+      213: -6723002668108756082
+    second: idle sheet-Sheet_10
+  - first:
+      213: -4818908735655743886
+    second: idle sheet-Sheet_11
+  - first:
+      213: -8675156796383920428
+    second: idle sheet-Sheet_12
+  - first:
+      213: -754133856595535296
+    second: idle sheet-Sheet_13
+  - first:
+      213: 8573700253713788481
+    second: idle sheet-Sheet_14
+  - first:
+      213: 7676116845373998728
+    second: idle sheet-Sheet_15
+  - first:
+      213: -1001250234447512021
+    second: idle sheet-Sheet_16
+  - first:
+      213: -6423605263834463869
+    second: idle sheet-Sheet_17
+  - first:
+      213: -1681938229949886541
+    second: idle sheet-Sheet_18
+  - first:
+      213: 6244208010760369578
+    second: idle sheet-Sheet_19
+  - first:
+      213: -4836941908740572148
+    second: idle sheet-Sheet_20
+  - first:
+      213: -5223431813745532584
+    second: idle sheet-Sheet_21
+  - first:
+      213: 2839013383351937502
+    second: idle sheet-Sheet_22
+  - first:
+      213: 778820893194003534
+    second: idle sheet-Sheet_23
+  - first:
+      213: -4077775167484458439
+    second: idle sheet-Sheet_24
+  - first:
+      213: -3665464452465607627
+    second: idle sheet-Sheet_25
+  - first:
+      213: -7832536452652389977
+    second: idle sheet-Sheet_26
+  - first:
+      213: 1314855292757480977
+    second: idle sheet-Sheet_27
+  - first:
+      213: -8652173839269584263
+    second: idle sheet-Sheet_28
+  - first:
+      213: 6959841485907670914
+    second: idle sheet-Sheet_29
+  - first:
+      213: 8085348360872856876
+    second: idle sheet-Sheet_30
+  - first:
+      213: 113314787179497295
+    second: idle sheet-Sheet_31
+  - first:
+      213: -8054374922255972496
+    second: idle sheet-Sheet_32
+  - first:
+      213: -1677424523230390370
+    second: idle sheet-Sheet_33
+  - first:
+      213: 6678790838281024521
+    second: idle sheet-Sheet_34
+  - first:
+      213: 7402369749396603506
+    second: idle sheet-Sheet_35
+  - first:
+      213: -721640170537483364
+    second: idle sheet-Sheet_36
+  - first:
+      213: -1624455900941452210
+    second: idle sheet-Sheet_37
+  - first:
+      213: 9174599377899935913
+    second: idle sheet-Sheet_38
+  - first:
+      213: 3164053547012944403
+    second: idle sheet-Sheet_39
+  - first:
+      213: -6741435608602415857
+    second: idle sheet-Sheet_40
+  - first:
+      213: 6109521401565512560
+    second: idle sheet-Sheet_41
+  - first:
+      213: 4262541321073302279
+    second: idle sheet-Sheet_42
+  - first:
+      213: 2779852560611584751
+    second: idle sheet-Sheet_43
+  - first:
+      213: 9001804947379424435
+    second: idle sheet-Sheet_44
+  - first:
+      213: -977074919062976543
+    second: idle sheet-Sheet_45
+  - first:
+      213: 9050370400901029163
+    second: idle sheet-Sheet_46
+  - first:
+      213: 5345027239978781104
+    second: idle sheet-Sheet_47
+  - first:
+      213: -3880392800389467618
+    second: idle sheet-Sheet_48
+  - first:
+      213: -1674957325873495150
+    second: idle sheet-Sheet_49
+  - first:
+      213: -6747893712501563462
+    second: idle sheet-Sheet_50
+  - first:
+      213: -1216576684666850263
+    second: idle sheet-Sheet_51
+  - first:
+      213: -4311282645777760113
+    second: idle sheet-Sheet_52
+  - first:
+      213: 6820269267214334076
+    second: idle sheet-Sheet_53
+  - first:
+      213: 6774490956056950427
+    second: idle sheet-Sheet_54
+  - first:
+      213: 5790465339341918572
+    second: idle sheet-Sheet_55
+  - first:
+      213: 8780089061583986195
+    second: idle sheet-Sheet_56
+  - first:
+      213: -758967353414886946
+    second: idle sheet-Sheet_57
+  - first:
+      213: -8446610630970600085
+    second: idle sheet-Sheet_58
+  - first:
+      213: -4655365390823460204
+    second: idle sheet-Sheet_59
+  - first:
+      213: -4912081898326125397
+    second: idle sheet-Sheet_60
+  - first:
+      213: -1273663837523667801
+    second: idle sheet-Sheet_61
+  - first:
+      213: 2436145230998463682
+    second: idle sheet-Sheet_62
+  - first:
+      213: 2806907067692934286
+    second: idle sheet-Sheet_63
+  - first:
+      213: -1634528924875218585
+    second: idle sheet-Sheet_64
+  - first:
+      213: 218405184578372292
+    second: idle sheet-Sheet_65
+  - first:
+      213: -1809657568808592344
+    second: idle sheet-Sheet_66
+  - first:
+      213: 5352326021498142381
+    second: idle sheet-Sheet_67
+  - first:
+      213: -6164538579905488363
+    second: idle sheet-Sheet_68
+  - first:
+      213: 1289722376177243754
+    second: idle sheet-Sheet_69
+  - first:
+      213: 7714460286901806912
+    second: idle sheet-Sheet_70
+  - first:
+      213: 2882148177402955683
+    second: idle sheet-Sheet_71
+  - first:
+      213: 9105374411111726909
+    second: idle sheet-Sheet_72
+  - first:
+      213: 6063982250900505488
+    second: idle sheet-Sheet_73
+  - first:
+      213: -3123761095782384872
+    second: idle sheet-Sheet_74
+  - first:
+      213: 2185208646886297146
+    second: idle sheet-Sheet_75
+  - first:
+      213: -5905364924831127292
+    second: idle sheet-Sheet_76
+  - first:
+      213: 8830135173384403729
+    second: idle sheet-Sheet_77
+  - first:
+      213: -5084009269941902071
+    second: idle sheet-Sheet_78
+  - first:
+      213: -4437442966978018968
+    second: idle sheet-Sheet_79
+  - first:
+      213: 1200979132889702515
+    second: idle sheet-Sheet_80
+  - first:
+      213: 3751010895545519387
+    second: idle sheet-Sheet_81
+  - first:
+      213: 5996330862518600035
+    second: idle sheet-Sheet_82
+  - first:
+      213: -4414500330514461133
+    second: idle sheet-Sheet_83
+  - first:
+      213: 8721778446731684179
+    second: idle sheet-Sheet_84
+  - first:
+      213: 4034218135747418003
+    second: idle sheet-Sheet_85
+  - first:
+      213: 97610406120315457
+    second: idle sheet-Sheet_86
+  - first:
+      213: 1411332496488547063
+    second: idle sheet-Sheet_87
+  - first:
+      213: 8451055266657014624
+    second: idle sheet-Sheet_88
+  - first:
+      213: 4337795257326401103
+    second: idle sheet-Sheet_89
+  - first:
+      213: -1870287471842153491
+    second: idle sheet-Sheet_90
+  - first:
+      213: -7470445078557033401
+    second: idle sheet-Sheet_91
+  - first:
+      213: -2850282048034577961
+    second: idle sheet-Sheet_92
+  - first:
+      213: 6850524931808930717
+    second: idle sheet-Sheet_93
+  - first:
+      213: 2996982063641778725
+    second: idle sheet-Sheet_94
+  - first:
+      213: 7457323326929545169
+    second: idle sheet-Sheet_95
+  - first:
+      213: 6200189150681985552
+    second: idle sheet-Sheet_96
+  - first:
+      213: 7458102628258210391
+    second: idle sheet-Sheet_97
+  - first:
+      213: -5916120757776809317
+    second: idle sheet-Sheet_98
+  - first:
+      213: 463959262901477814
+    second: idle sheet-Sheet_99
+  - first:
+      213: 8993486183405467006
+    second: idle sheet-Sheet_100
+  - first:
+      213: 5917846202948374102
+    second: idle sheet-Sheet_101
+  - first:
+      213: 7211877117317627943
+    second: idle sheet-Sheet_102
+  - first:
+      213: 473756339178020418
+    second: idle sheet-Sheet_103
+  - first:
+      213: 8998053921757662047
+    second: idle sheet-Sheet_104
+  - first:
+      213: -1816857353090758632
+    second: idle sheet-Sheet_105
+  - first:
+      213: -6500233701981540040
+    second: idle sheet-Sheet_0
+  - first:
+      213: 6281260624728343695
+    second: idle sheet-Sheet_1
+  - first:
+      213: -5505129644047102061
+    second: idle sheet-Sheet_2
+  - first:
+      213: 2924723023494284876
+    second: idle sheet-Sheet_3
+  - first:
+      213: -4481136758209786395
+    second: idle sheet-Sheet_4
+  - first:
+      213: -8723884762625847556
+    second: idle sheet-Sheet_5
+  - first:
+      213: 979393179576559777
+    second: idle sheet-Sheet_6
+  - first:
+      213: -3070119604382036538
+    second: idle sheet-Sheet_7
+  - first:
+      213: -4471246554444092755
+    second: idle sheet-Sheet_8
+  - first:
+      213: -6132888260949413583
+    second: idle sheet-Sheet_9
+  - first:
+      213: -993777435469913431
+    second: idle sheet-Sheet_10
+  - first:
+      213: -3324718785335593425
+    second: idle sheet-Sheet_11
+  - first:
+      213: -1731219212947559076
+    second: idle sheet-Sheet_12
+  - first:
+      213: -6624062355233822832
+    second: idle sheet-Sheet_13
+  - first:
+      213: -1109043740291549372
+    second: idle sheet-Sheet_14
+  - first:
+      213: -2163929889310428935
+    second: idle sheet-Sheet_15
+  - first:
+      213: 3917711935244675226
+    second: idle sheet-Sheet_16
+  - first:
+      213: 775974755477454517
+    second: idle sheet-Sheet_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle sheet-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8313e5443e78ac5a0800000000000000
+      internalID: -6500233701981540040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84c49632458b2750800000000000000
+      internalID: 6281260624728343695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 21
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f891491c9d993b0800000000000000
+      internalID: -5505129644047102061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 21
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4688c11814b69820800000000000000
+      internalID: 2924723023494284876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 21
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edc5f84cddcfc1c0800000000000000
+      internalID: -4481136758209786395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 21
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe4e3e87098ee680800000000000000
+      internalID: -8723884762625847556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 21
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e91468e0879d00800000000000000
+      internalID: 979393179576559777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 21
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd88da6c7eb465d0800000000000000
+      internalID: -3070119604382036538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 21
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaab2bc2f0f2f1c0800000000000000
+      internalID: -4471246554444092755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 21
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13172febe9a93eaa0800000000000000
+      internalID: -6132888260949413583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 21
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2640d00b46532f0800000000000000
+      internalID: -993777435469913431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 21
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f00e31e93cd1d0800000000000000
+      internalID: -3324718785335593425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 21
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dede75c4979f7e0800000000000000
+      internalID: -1731219212947559076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 21
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097204a326a9214a0800000000000000
+      internalID: -6624062355233822832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 21
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4473d8b1892eb90f0800000000000000
+      internalID: -1109043740291549372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 21
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f03dcc0b3d28f1e0800000000000000
+      internalID: -2163929889310428935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9821988f328e5630800000000000000
+      internalID: 3917711935244675226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle sheet-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 21
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be77e6cde0d4ca00800000000000000
+      internalID: 775974755477454517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
